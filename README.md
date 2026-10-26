@@ -7,9 +7,9 @@ Prototipo no oficial para revisión de Pascale. Una segunda dirección visual in
 Abre `index.html` en tu navegador. No requiere instalar paquetes, compilar, claves ni servidores.
 
 - `index.html`: contenido y estructura.
-- `style.css`: diseño responsive, colores y tipografía.
-- `script.js`: desplegable de notas, accesible por teclado.
-- `illustration.jpg`: ilustración conceptual original. No es foto de Flotte.
+- `2-style.css`: diseño responsive, colores y tipografía.
+- `3-script.js`: desplegable de notas, accesible por teclado.
+- `6-illustration.jpg`: ilustración conceptual original. No es foto de Flotte.
 
 Para trabajar con servidor local opcional: `python3 -m http.server 8000` y abrir `http://localhost:8000`.
 
